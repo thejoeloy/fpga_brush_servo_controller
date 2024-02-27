@@ -11,4 +11,4 @@ Controls a dc brush motor and a servo using the 4 buttons the the board. BTN0 re
 
 
 ## Demo
-[Watch the Demo Here](https://youtube.com/shorts/YrcIg46KmFQ?feature=share)
+[Watch the Demo Here](https://www.youtube.com/watch?v=YrcIg46KmFQ)
