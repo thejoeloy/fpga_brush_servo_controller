@@ -1,9 +1,9 @@
 # artya7
 
 ## Parts
-Arty A7 35-T
-PMOD HB3 H Bridge Driver
-PMOD CON3 Servo Controller
+Arty A7 35-T <br>
+PMOD HB3 H Bridge Driver <br>
+PMOD CON3 Servo Controller <br>
 
 ## Description
 
