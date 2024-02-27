@@ -1,4 +1,4 @@
-# artya7
+# Arty A7 35T DC Brush and Servo controller
 
 ## Parts
 Arty A7 35-T <br>
