@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Jan 22 15:05:08 2024
+# Process ID: 1301080
+# Current directory: /home/thejoey/Playground/motor_control/motor_control.runs/impl_1
+# Command line: vivado -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: /home/thejoey/Playground/motor_control/motor_control.runs/impl_1/top.vdi
+# Journal file: /home/thejoey/Playground/motor_control/motor_control.runs/impl_1/vivado.jou
+# Running On: thejoey-Z390-UD, OS: Linux, CPU Frequency: 3999.901 MHz, CPU Physical cores: 6, Host memory: 33575 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
